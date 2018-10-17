@@ -1,3 +1,4 @@
 # Codedoor GIT Workshop
 
-Example Application for Demontrating Git
+Example Application for Demonstrating Git
+
